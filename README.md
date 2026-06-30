@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=500&lines=React+%7C+Tailwind+%7C+JavaScript;MERN+Stack+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mariam-malik958&label=Profile%20views&color=F97316&style=flat" alt="Profile views" />
 </p>
 
