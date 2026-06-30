@@ -51,20 +51,7 @@ I focus on writing well-structured, maintainable code and creating smooth, user-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mariam-malik958&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-malik958&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect With Me
-
-💬 **Ask me about:** HTML, CSS, JavaScript, React, MERN Stack
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mariam-malik-217932399" target="_blank">
