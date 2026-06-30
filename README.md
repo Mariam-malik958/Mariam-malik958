@@ -10,11 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=F97316&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%26+TypeScript;Python+%26+FastAPI;PostgreSQL+%26+MongoDB;Scalable+Web+Solutions)](https://git.io/typing-svg)
 
-👩‍💻 **Full-Stack Web Developer** specializing in building clean, scalable, and high-performance web applications using **modern technologies** — **MERN Stack (React, Node.js, Express, MongoDB)** along with **Tailwind CSS** and **JavaScript**.
+👩‍💻 **Full-Stack Web Developer** specializing in building clean, scalable, and high-performance web applications using **modern technologies** — **MERN Stack (React, Node.js, Express, MongoDB)**, along with **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Python**.
 I focus on writing well-structured, maintainable code and creating smooth, user-friendly interfaces.
 
 ---
-
 ### 🎯 What I Do
 
 - 🎨 Build responsive and accessible **frontend interfaces** using **React & Tailwind CSS**
